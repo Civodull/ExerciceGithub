@@ -1,0 +1,25 @@
+[{
+        "id": 1,
+        "region": "Dakar",
+        "Temps": 25,
+        "position": { "lattitude": 1234, "longitude": 4656 }
+    },
+    {
+        "id": 2,
+        "region": "Matam",
+        "Temps": 34,
+        "position": { "lattitude": 2462, "longitude": 1236 }
+    },
+    {
+        "id": 3,
+        "region": "ZIG",
+        "Temps": 30,
+        "position": { "lattitude": 248, "longitude": 42 }
+    },
+    {
+        "id": 4,
+        "region": "Saint-Louis",
+        "Temps": 20,
+        "position": { "lattitude": 123, "longitude": 466 }
+    }
+]
